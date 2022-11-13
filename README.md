@@ -2,11 +2,11 @@
 This C program was designed to manage tasks, whether is in a big company, a startup, or even a house! It can perform this actions:
 - _Cargar tarea_ (Register task): This option adds a new task on the list
 - _Modificar tarea_ (Modify task): It will allow you to modify certain fields of a task
-- _Completar una tarea_ (Complete a task): This function will mark a task as done and delete ir from the list
+- _Completar una tarea_ (Complete a task): This function will mark a task as done and delete it from the list
 - _Listar tareas_ (Show tasks): As the name suggests, it will show all the tasks in the list
 - _Tareas urgentes_ (Urgent tasks): It will show all the tasks that were registered as urgent
 - _Tareas de empleado_ (Employee tasks): Given a name, it will show all the tasks to be done by the employee
-- _Guardar y salir_ (Save and wxit): This option will save all the tasks in a binary file and exit the program
+- _Guardar y salir_ (Save and exit): This option will save all the tasks in a binary file and exit the program
 
 To give this program a try on Linux:
 - Install gcc with this command:
